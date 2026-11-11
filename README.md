@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Brazil, covering official portals, transport, region guides, national parks, and remote work resources.
 
+Brazil is a vibrant South American destination spanning the Amazon rainforest basin, tropical Atlantic coastlines, colonial historic towns, and major metropolitan cultural centers. This list is intended for biodiversity researchers, cultural travelers, beach explorers, and music enthusiasts.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
